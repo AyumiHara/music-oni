@@ -28,6 +28,8 @@ class ViewController: UIViewController {
         setAudioPlayer(soundName: "natsu", type: "mp3")
         audioPlayer.play()
         
+        
+        
     }
     
     @IBAction func amePlayButton() {
